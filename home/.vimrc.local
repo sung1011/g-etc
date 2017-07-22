@@ -1,1 +1,9 @@
-/Users/sung/.vimrc.local
+set encoding=utf-8
+
+:map <leader>d :bd<cr>
+:map <leader>n :bn<cr>
+:map <leader>p :bp<cr>
+:map <leader>w :w<cr>
+:map <leader>W :wq<cr>
+:map <leader>q :q<cr>
+:map <leader>Q :q!<cr>

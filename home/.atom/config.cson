@@ -1,0 +1,26 @@
+"*":
+  core:
+    disabledPackages: [
+      "vim-surround"
+    ]
+    telemetryConsent: "no"
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "424668f8-7cae-4552-b056-1ae4814397ae"
+  "php-cs-fixer":
+    executablePath: "/usr/local/bin/php-cs-fixer"
+    executeOnSave: true
+  "tree-view":
+    autoReveal: true
+  "vim-mode-plus":
+    automaticallyEscapeInsertModeOnActivePaneItemChange: true
+    ignoreCaseForSearch: true
+    keymapPToPutWithAutoIndent: true
+    stayOnTransformString: true
+    useClipboardAsDefaultRegister: true
+    wrapLeftRightMotion: true
+  welcome:
+    showOnStartup: false

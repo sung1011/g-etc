@@ -1,0 +1,16 @@
+[
+  {
+    title: "tickles"
+    group: "g"
+    paths: [
+      "/usr/local/var/www/tickles"
+    ]
+  }
+  {
+    title: "G Etc"
+    group: "g"
+    paths: [
+      "/usr/local/var/www/g-etc"
+    ]
+  }
+]
