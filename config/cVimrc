@@ -1,0 +1,8 @@
+" default search engine
+let defaultengine = "baidu"
+" set mapleader
+let mapleader = ","
+" Mappings
+map <Leader>. nextTab
+map <Leader>m previousTab
+map <Leader>d closeTab
