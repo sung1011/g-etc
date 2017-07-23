@@ -1,6 +1,6 @@
 [
   {
-    title: "tickles"
+    title: "Tickles"
     group: "g"
     paths: [
       "/usr/local/var/www/tickles"
@@ -11,6 +11,41 @@
     group: "g"
     paths: [
       "/usr/local/var/www/g-etc"
+    ]
+  }
+  {
+    title: "Apidebug"
+    group: "master"
+    paths: [
+      "/usr/local/var/www/apidebug"
+    ]
+  }
+  {
+    title: "Connector"
+    group: "master"
+    paths: [
+      "/usr/local/var/www/connector"
+    ]
+  }
+  {
+    title: "Dev"
+    group: "master"
+    paths: [
+      "/data/home/user00/playcrab/master/version/backend/dev"
+    ]
+  }
+  {
+    title: "G Ln"
+    group: "g"
+    paths: [
+      "/Users/sung/g-ln"
+    ]
+  }
+  {
+    title: "Tp5"
+    group: "demo"
+    paths: [
+      "/Users/sung/g-ln/webroot/tp5"
     ]
   }
 ]

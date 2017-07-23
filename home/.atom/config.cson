@@ -1,8 +1,5 @@
 "*":
   core:
-    disabledPackages: [
-      "vim-surround"
-    ]
     telemetryConsent: "no"
   editor:
     invisibles: {}
