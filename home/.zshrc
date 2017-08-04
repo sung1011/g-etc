@@ -1,5 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
+export PATH="$HOME/.composer/vendor/bin:$PATH"
+
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/sung/.oh-my-zsh
@@ -90,3 +92,5 @@ alias tle="trans -s zh-CN -t en"
 
 alias gacp='git add .;git commit -m \"ig:\";git push'
 alias glacp='git pull;git add .;git commit -m \"ig:\";git push'
+
+test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"

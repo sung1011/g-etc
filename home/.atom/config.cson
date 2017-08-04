@@ -10,6 +10,9 @@
   "php-cs-fixer":
     executablePath: "/usr/local/bin/php-cs-fixer"
     executeOnSave: true
+  "php-debug":
+    AutoExpandLocals: true
+    currentPanelMode: "bottom"
   "tree-view":
     autoReveal: true
   "vim-mode-plus":

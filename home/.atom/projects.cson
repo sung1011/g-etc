@@ -21,10 +21,10 @@
     ]
   }
   {
-    title: "Connector"
+    title: "Connector backend"
     group: "master"
     paths: [
-      "/usr/local/var/www/connector"
+      "/usr/local/var/www/connector_backend"
     ]
   }
   {
@@ -46,6 +46,20 @@
     group: "demo"
     paths: [
       "/Users/sung/g-ln/webroot/tp5"
+    ]
+  }
+  {
+    title: "Demo php"
+    group: "demo"
+    paths: [
+      "/Users/sung/g-ln/webroot/demo_php"
+    ]
+  }
+  {
+    title: "Demo Laravel"
+    group: "demo"
+    paths: [
+      "/Users/sung/g-ln/webroot/demo_laravel"
     ]
   }
 ]
