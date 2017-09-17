@@ -3,7 +3,7 @@
 ;;;;;;;;;;;;;;;;;;;;;
 
 ; All relative paths in this configuration file are relative to PHP's install
-; prefix (/usr/local/Cellar/php71/7.1.7_19). This prefix can be dynamically changed by using the
+; prefix (/usr/local/Cellar/php71/7.1.8_20). This prefix can be dynamically changed by using the
 ; '-p' argument from the command line.
 
 ;;;;;;;;;;;;;;;;;;
@@ -78,7 +78,7 @@
 
 ; Send FPM to background. Set to 'no' to keep FPM in foreground for debugging.
 ; Default Value: yes
-;daemonize = yes
+daemonize = no
 
 ; Set open file descriptor rlimit for the master process.
 ; Default Value: system defined value
@@ -121,5 +121,5 @@
 ; file.
 ; Relative path can also be used. They will be prefixed by:
 ;  - the global prefix if it's been set (-p argument)
-;  - /usr/local/Cellar/php71/7.1.7_19 otherwise
+;  - /usr/local/Cellar/php71/7.1.8_20 otherwise
 include=/usr/local/etc/php/7.1/php-fpm.d/*.conf

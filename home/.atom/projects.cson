@@ -35,31 +35,67 @@
     ]
   }
   {
-    title: "G Ln"
+    title: "Tk"
     group: "g"
     paths: [
-      "/Users/sung/g-ln"
+      "/Users/sung/tk"
     ]
   }
   {
     title: "Tp5"
     group: "demo"
     paths: [
-      "/Users/sung/g-ln/webroot/tp5"
+      "/usr/local/var/www/tp5"
     ]
   }
   {
     title: "Demo php"
     group: "demo"
     paths: [
-      "/Users/sung/g-ln/webroot/demo_php"
+      "/usr/local/var/www/demo_php"
     ]
   }
   {
     title: "Demo Laravel"
     group: "demo"
     paths: [
-      "/Users/sung/g-ln/webroot/demo_laravel"
+      "/usr/local/var/www/demo_laravel"
     ]
+  }
+  {
+    title: "Demo Cakephp"
+    group: "demo"
+    paths: [
+      "/usr/local/var/www/demo_cakephp"
+    ]
+  }
+  {
+    title: "Demo Symfony Console"
+    group: "demo"
+    paths: [
+      "/data/home/user00/playcrab/master/webroot/demo_symfony-console"
+    ]
+  }
+  {
+    title: "Demo Pimple"
+    group: "demo"
+    paths: [
+      "/data/home/user00/playcrab/master/webroot/demo_pimple"
+    ]
+  }
+  {
+      title: "Demo Spider"
+      group: "demo"
+      paths: [
+          "/data/home/user00/playcrab/master/webroot/demo_spider"
+      ]
+
+  }
+  {
+      title: "Demo Slim-skeleton"
+      group: "demo"
+      paths: [
+          "/data/home/user00/playcrab/master/webroot/demo_slim-skeleton"
+      ]
   }
 ]

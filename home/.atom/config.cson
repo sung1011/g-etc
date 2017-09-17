@@ -1,23 +1,47 @@
 "*":
+  "atom-material-ui":
+    colors:
+      abaseColor: "#ffd54f"
+      accentColor: "#a28832"
+      predefinedColor: "Amber"
+    fonts:
+      fontSize: 14
+    ui: {}
   core:
     telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax"
+    ]
   editor:
     invisibles: {}
     showIndentGuide: true
     tabLength: 4
   "exception-reporting":
     userId: "424668f8-7cae-4552-b056-1ae4814397ae"
+  "highlight-selected":
+    highlightBackground: true
+  "linter-ui-default":
+    panelHeight: 69
   "php-cs-fixer":
     executablePath: "/usr/local/bin/php-cs-fixer"
     executeOnSave: true
   "php-debug":
     AutoExpandLocals: true
     currentPanelMode: "bottom"
+  "platformio-ide-terminal":
+    core:
+      workingDirectory: "Home"
+    style:
+      theme: "dracula"
+  "pretty-json":
+    prettifyOnSaveJSON: true
   "tree-view":
     autoReveal: true
   "vim-mode-plus":
     automaticallyEscapeInsertModeOnActivePaneItemChange: true
     ignoreCaseForSearch: true
+    keymapBackslashToInnerCommentOrParagraphWhenToggleLineCommentsIsPending: true
     keymapPToPutWithAutoIndent: true
     stayOnTransformString: true
     useClipboardAsDefaultRegister: true
