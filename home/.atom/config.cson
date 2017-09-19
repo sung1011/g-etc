@@ -1,4 +1,5 @@
 "*":
+  "atom-autocomplete-php": {}
   "atom-material-ui":
     colors:
       abaseColor: "#ffd54f"
@@ -30,8 +31,7 @@
     AutoExpandLocals: true
     currentPanelMode: "bottom"
   "platformio-ide-terminal":
-    core:
-      workingDirectory: "Home"
+    core: {}
     style:
       theme: "dracula"
   "pretty-json":
@@ -43,8 +43,6 @@
     ignoreCaseForSearch: true
     keymapBackslashToInnerCommentOrParagraphWhenToggleLineCommentsIsPending: true
     keymapPToPutWithAutoIndent: true
-    stayOnTransformString: true
     useClipboardAsDefaultRegister: true
-    wrapLeftRightMotion: true
   welcome:
     showOnStartup: false
