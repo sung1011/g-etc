@@ -22,4 +22,4 @@ set nobackup
 
 :map <leader>gll :Git pull<cr>
 :map <leader>ga :Git add .<cr>
-
+:map <leader>gacp :!git pull;git add .;git commit -m 'ig:';git push<cr>
