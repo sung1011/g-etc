@@ -1,25 +1,36 @@
+"set nospell
 set encoding=utf-8
 
-let g:instant_markdown_slow = 1
-let g:DisableAutoPHPFolding = 1
-let g:PIVAutoClose = 1
+" syntastic
+let g:syntastic_always_populate_loc_list = 0
+let g:syntastic_auto_loc_list = 0
+let g:syntastic_check_on_open = 0
+let g:syntastic_check_on_wq = 0
 
+" colorscheme
 let g:solarized_termcolors=16
 color symfony "Load a colorscheme
 
-set foldmethod=manual "另需要手动修改PIV/syntax/php.vim
-set nobackup
+set foldmethod=manual "不折叠 另需要手动修改PIV/syntax/php.vim
+let g:DisableAutoPHPFolding = 1
+let g:PIVAutoClose = 1
 
-:map <leader>d :bd<cr>
-:map <leader>n :bn<cr>
-:map <leader>p :bp<cr>
-:map <leader>w :w<cr>
-:map <leader>W :wq<cr>
-:map <leader>q :q<cr>
-:map <leader>Q :q!<cr>
+set nobackup " 不备份
 
-:map <leader>f :Ack 
-
-:map <leader>gll :Git pull<cr>
-:map <leader>ga :Git add .<cr>
-:map <leader>gacp :!git pull;git add .;git commit -m 'ig:';git push<cr>
+" keybindings
+" - map operate
+map <leader>d :bd<cr>
+map <leader>n :bn<cr>
+map <leader>p :bp<cr>
+map <leader>w :w<cr>
+map <leader>W :wq<cr>
+map <leader>q :q<cr>
+map <leader>Q :q!<cr>
+map <leader>f :Ack 
+" - map git
+map <leader>gll :Git pull<cr>
+map <leader>ga :Git add .<cr>
+map <leader>gacp :!git pull;git add .;git commit -m 'ig:';git push<cr>
+" - map run script
+map <Leader>l :%!python3<CR> "运行py3
+map <Leader>p :%!php<CR> "运行php
