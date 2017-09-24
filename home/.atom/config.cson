@@ -40,9 +40,14 @@
     autoReveal: true
   "vim-mode-plus":
     automaticallyEscapeInsertModeOnActivePaneItemChange: true
+    flashOnMoveToOccurrence: true
     ignoreCaseForSearch: true
+    keepColumnOnSelectTextObject: true
     keymapBackslashToInnerCommentOrParagraphWhenToggleLineCommentsIsPending: true
     keymapPToPutWithAutoIndent: true
+    stayOnDelete: true
+    stayOnTransformString: true
+    stayOnYank: true
     useClipboardAsDefaultRegister: true
   welcome:
     showOnStartup: false

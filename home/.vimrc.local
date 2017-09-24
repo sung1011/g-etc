@@ -1,5 +1,15 @@
 set encoding=utf-8
 
+let g:instant_markdown_slow = 1
+let g:DisableAutoPHPFolding = 1
+let g:PIVAutoClose = 1
+
+let g:solarized_termcolors=16
+color symfony "Load a colorscheme
+
+set foldmethod=manual "另需要手动修改PIV/syntax/php.vim
+set nobackup
+
 :map <leader>d :bd<cr>
 :map <leader>n :bn<cr>
 :map <leader>p :bp<cr>
@@ -7,3 +17,8 @@ set encoding=utf-8
 :map <leader>W :wq<cr>
 :map <leader>q :q<cr>
 :map <leader>Q :q!<cr>
+
+:map <leader>f :Ack 
+
+:map <leader>l :Git pull<cr>
+
