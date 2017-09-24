@@ -20,5 +20,6 @@ set nobackup
 
 :map <leader>f :Ack 
 
-:map <leader>l :Git pull<cr>
+:map <leader>gll :Git pull<cr>
+:map <leader>ga :Git add .<cr>
 

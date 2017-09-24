@@ -1,2 +1,3 @@
 # g-etc
-g etc
+
+my etc
