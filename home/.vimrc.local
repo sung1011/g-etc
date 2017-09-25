@@ -1,5 +1,11 @@
-"set nospell
+set shell=bash\ -i
+filetype plugin on
+syntax on
+set nospell
 set encoding=utf-8
+
+"tagbar
+"autocmd VimEnter * nested :TagbarOpen
 
 " syntastic
 let g:syntastic_always_populate_loc_list = 0
@@ -8,8 +14,9 @@ let g:syntastic_check_on_open = 0
 let g:syntastic_check_on_wq = 0
 
 " colorscheme
-let g:solarized_termcolors=16
-color symfony "Load a colorscheme
+"let g:solarized_termcolors=16
+"color symfony "Load a colorscheme
+color material"Load a colorscheme
 
 set foldmethod=manual "不折叠 另需要手动修改PIV/syntax/php.vim
 let g:DisableAutoPHPFolding = 1
@@ -19,9 +26,16 @@ set nobackup " 不备份
 
 " keybindings
 " - map operate
+map <leader>b :buffers<cr>
+map <leader>1 :b1<cr>
+map <leader>2 :b2<cr>
+map <leader>3 :b3<cr>
+map <leader>4 :b4<cr>
+map <leader>5 :b5<cr>
+map <leader>6 :b6<cr>
 map <leader>d :bd<cr>
-map <leader>n :bn<cr>
-map <leader>p :bp<cr>
+map <leader>. :bn<cr>
+map <leader>m :bp<cr>
 map <leader>w :w<cr>
 map <leader>W :wq<cr>
 map <leader>q :q<cr>
@@ -34,3 +48,5 @@ map <leader>gacp :!git pull;git add .;git commit -m 'ig:';git push<cr>
 " - map run script
 map <Leader>l :%!python3<CR> "运行py3
 map <Leader>p :%!php<CR> "运行php
+" - map format 
+map <leader>= gg=G
