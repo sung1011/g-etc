@@ -12,7 +12,7 @@
     telemetryConsent: "no"
     themes: [
       "atom-material-ui"
-      "atom-material-syntax"
+      "apex-syntax"
     ]
   editor:
     invisibles: {}
@@ -36,6 +36,11 @@
       theme: "dracula"
   "pretty-json":
     prettifyOnSaveJSON: true
+  "seti-syntax":
+    dynamicColor: false
+    themeColor: "Purple"
+  "seti-ui":
+    themeColor: "Purple"
   "tree-view":
     autoReveal: true
   "vim-mode-plus":
@@ -49,5 +54,7 @@
     stayOnTransformString: true
     stayOnYank: true
     useClipboardAsDefaultRegister: true
+  "vim-mode-plus-ex-mode":
+    notifiedUseExMode: true
   welcome:
     showOnStartup: false
