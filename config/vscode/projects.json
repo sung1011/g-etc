@@ -1,0 +1,14 @@
+[
+	{
+		"name": "dev",
+		"rootPath": "/data/home/user00/playcrab/master/version/backend/dev",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "demo_php",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_php",
+		"paths": [],
+		"group": ""
+	}
+]
