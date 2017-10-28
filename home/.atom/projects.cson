@@ -1,109 +1,226 @@
 [
-  {
-    title: "Tickles"
-    group: "g"
-    paths: [
-      "/usr/local/var/www/tickles"
-    ]
-  }
-  {
-    title: "G Etc"
-    group: "g"
-    paths: [
-      "/usr/local/var/www/g-etc"
-    ]
-  }
-  {
-    title: "Apidebug"
-    group: "master"
-    paths: [
-      "/usr/local/var/www/apidebug"
-    ]
-  }
-  {
-    title: "Connector backend"
-    group: "master"
-    paths: [
-      "/usr/local/var/www/connector_backend"
-    ]
-  }
-  {
-    title: "Dev"
-    group: "master"
-    paths: [
-      "/data/home/user00/playcrab/master/version/backend/dev"
-    ]
-  }
-  {
-    title: "Tk"
-    group: "g"
-    paths: [
-      "/Users/sung/tk"
-    ]
-  }
-  {
-    title: "Tp5"
-    group: "demo"
-    paths: [
-      "/usr/local/var/www/tp5"
-    ]
-  }
-  {
-    title: "Demo php"
-    group: "demo"
-    paths: [
-      "/usr/local/var/www/demo_php"
-    ]
-  }
-  {
-    title: "Demo Laravel"
-    group: "demo"
-    paths: [
-      "/usr/local/var/www/demo_laravel"
-    ]
-  }
-  {
-    title: "Demo Cakephp"
-    group: "demo"
-    paths: [
-      "/usr/local/var/www/demo_cakephp"
-    ]
-  }
-  {
-    title: "Demo Symfony Console"
-    group: "demo"
-    paths: [
-      "/data/home/user00/playcrab/master/webroot/demo_symfony-console"
-    ]
-  }
-  {
-    title: "Demo Pimple"
-    group: "demo"
-    paths: [
-      "/data/home/user00/playcrab/master/webroot/demo_pimple"
-    ]
-  }
-  {
-      title: "Demo Spider"
-      group: "demo"
-      paths: [
-          "/data/home/user00/playcrab/master/webroot/demo_spider"
-      ]
+    {
+        title: "Dev"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/version/backend/dev"
+        ]
+        devMode: true
+    }
+    {
+        title: "Webroot"
+        group: "dir"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot"
+        ]
+    }
+    {
+        title: "Global"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/version/global/dev"
+        ]
+    }
+    {
+        title: "Config"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/version/config/dev"
+        ]
+    }
+    {
+        title: "Arsenal"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/arsenal"
+        ]
+    }
+    {
+        title: "Ticklesphp"
+        group: "ticklesphp"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_ticklesphp/vendor"
+        ]
+    }
+    {
+        title: "sung1011.github.io"
+        group: "app"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/sung1011.github.io"
+        ]
+    }
+    {
+        title: "Doc"
+        group: "dir"
+        paths: [
+            "/Users/playcrab/tickles"
+        ]
+    }
+    {
+        title: "Connector backend"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/connector_backend"
+        ]
+    }
+    {
+        title: "Connector global"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/connector_global"
+        ]
+    }
+    {
+        title: "Apidebug"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/apidebug"
+        ]
+    }
+    {
+        title: "Mtool"
+        group: "master"
+        paths: [
+            "/data/home/user00/playcrab/master/master_tools/mtool"
+        ]
+    }
+    {
+        title: "Demo Ticklesphp"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_ticklesphp"
+        ]
+    }
+    {
+        title: "Demo Laravel"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_laravel"
+        ]
+    }
+    {
+        title: "Demo Thinkphp 3.2"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_thinkphp3.2"
+        ]
+    }
+    {
+        title: "Demo Thinkphp 5"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_thinkphp"
+        ]
+    }
+    {
+        title: "Demo Python"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_python"
+        ]
+    }
+    {
+        title: "Demo Php"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_php"
+        ]
+    }
+    {
+        title: "Php Src"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/php-src"
+        ]
+    }
+    {
+        title: "G console"
+        group: "tickles"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/g-console"
+        ]
 
-  }
-  {
-      title: "Demo Slim-skeleton"
-      group: "demo"
-      paths: [
-          "/data/home/user00/playcrab/master/webroot/demo_slim-skeleton"
-      ]
-  }
-  {
-      title: "Sung1011.github.io"
-      group: "g"
-      paths: [
-          "/data/home/user00/playcrab/master/webroot/sung1011.github.io"
-      ]
-
-  }
+    }
+    {
+        title: "Demo C"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_c"
+        ]
+    }
+    {
+        title: "Demo Symfony"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_symfony"
+        ]
+    }
+    {
+        title: "Demo Codeigniter"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_codeigniter"
+        ]
+    }
+    {
+        title: "Demo Slim Skeleton"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_slim-skeleton"
+        ]
+    }
+    {
+        title: "Demo Mongo shell"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_mongoshell"
+        ]
+    }
+    {
+        title: "Demo pimple"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_pimple"
+        ]
+    }
+    {
+        title: "Demo Nginx"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_nginx"
+        ]
+    }
+    {
+        title: "Demo FastRoute"
+        group: "demo"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/demo_fastroute"
+        ]
+    }
+    {
+        title: "Usr-local-etc"
+        paths: [
+            "/usr/local/etc"
+        ]
+    }
+    {
+        title: "Link"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/link"
+        ]
+    }
+    {
+        title: "Tickles"
+        group: "tickles"
+        paths: [
+            "/data/home/user00/playcrab/master/webroot/tickles"
+        ]
+    }
+    {
+        title: "Demo Cakephp"
+        group: "demo"
+        paths : [
+            "/data/home/user00/playcrab/master/webroot/demo_cakephp"
+        ]
+    }
 ]

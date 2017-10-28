@@ -45,3 +45,7 @@
         print_r(get_defined_vars());
         echo '</pre>';
         '''
+'.source.python':
+    'print':
+        'prefix': 'pr'
+        'body': 'print($1)$2'
