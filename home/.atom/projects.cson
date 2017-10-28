@@ -98,4 +98,12 @@
           "/data/home/user00/playcrab/master/webroot/demo_slim-skeleton"
       ]
   }
+  {
+      title: "Sung1011.github.io"
+      group: "g"
+      paths: [
+          "/data/home/user00/playcrab/master/webroot/sung1011.github.io"
+      ]
+
+  }
 ]
