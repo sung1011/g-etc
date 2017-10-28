@@ -12,7 +12,7 @@
     "php.validate.executablePath": "/usr/local/bin/php",
     // "phpformatter.phpPath": "/usr/local/bin/php",
     // "phpformatter.pharPath": "/usr/local/bin/php-cs-fixer",
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "vscode-icons",
     "editor.snippetSuggestions": "top",
     "code-runner.saveFileBeforeRun": true,
     "search.useIgnoreFilesByDefault": true,
@@ -21,7 +21,7 @@
     "git.confirmSync": false,
     "window.zoomLevel": 0,
     "emmet.showExpandedAbbreviation": "never",
-    "workbench.colorTheme": "Default High Contrast",
+    "workbench.colorTheme": "Monokai",
     "editor.scrollBeyondLastLine": false,
     "editor.dragAndDrop": false
 }
