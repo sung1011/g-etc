@@ -2,17 +2,26 @@
   "atom-autocomplete-php": {}
   "atom-material-ui":
     colors:
-      abaseColor: "#ffd54f"
-      accentColor: "#a28832"
-      predefinedColor: "Amber"
+      abaseColor: "#ef5350"
+      accentColor: "#59fcff"
+      predefinedColor: "Red"
     fonts:
       fontSize: 14
     ui: {}
   core:
+    automaticallyUpdate: false
+    disabledPackages: [
+      "markdown-scroll-sync"
+      "atom-beautify"
+      "intentions"
+      "atom-autocomplete-php"
+      "tidy-markdown"
+    ]
+    packagesWithKeymapsDisabled: []
     telemetryConsent: "no"
     themes: [
       "atom-material-ui"
-      "apex-syntax"
+      "chester-atom-syntax"
     ]
   editor:
     invisibles: {}
@@ -20,13 +29,16 @@
     tabLength: 4
   "exception-reporting":
     userId: "424668f8-7cae-4552-b056-1ae4814397ae"
+  "genesis-ui":
+    distractionFree: {}
+    treeView: {}
   "highlight-selected":
     highlightBackground: true
   "linter-ui-default":
-    panelHeight: 69
+    panelHeight: 177
   "php-cs-fixer":
     executablePath: "/usr/local/bin/php-cs-fixer"
-    executeOnSave: true
+    phpExecutablePath: "/usr/local/bin/php"
   "php-debug":
     AutoExpandLocals: true
     currentPanelMode: "bottom"
@@ -36,23 +48,14 @@
       theme: "dracula"
   "pretty-json":
     prettifyOnSaveJSON: true
-  "seti-syntax":
-    dynamicColor: false
-    themeColor: "Purple"
-  "seti-ui":
-    themeColor: "Purple"
   "tree-view":
     autoReveal: true
   "vim-mode-plus":
+    allowMoveToOffScreenColumnOnScreenLineMotion: false
     automaticallyEscapeInsertModeOnActivePaneItemChange: true
-    flashOnMoveToOccurrence: true
     ignoreCaseForSearch: true
-    keepColumnOnSelectTextObject: true
-    keymapBackslashToInnerCommentOrParagraphWhenToggleLineCommentsIsPending: true
     keymapPToPutWithAutoIndent: true
-    stayOnDelete: true
-    stayOnTransformString: true
-    stayOnYank: true
+    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
     useClipboardAsDefaultRegister: true
   "vim-mode-plus-ex-mode":
     notifiedUseExMode: true
