@@ -23,5 +23,7 @@
     "emmet.showExpandedAbbreviation": "never",
     "workbench.colorTheme": "Monokai",
     "editor.scrollBeyondLastLine": false,
-    "editor.dragAndDrop": false
+    "editor.dragAndDrop": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "python.pythonPath": "/usr/local/bin/python"
 }

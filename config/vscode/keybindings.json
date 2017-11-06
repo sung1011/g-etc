@@ -7,5 +7,10 @@
     {
         "key": "alt+`",
         "command": "workbench.action.quickOpenTerm"
+    },
+    {
+        "key": "ctrl+o",
+        "command": "-lineBreakInsert",
+        "when": "editorTextFocus && !editorReadonly"
     }
 ]
