@@ -118,7 +118,6 @@
         paths: [
             "/data/home/user00/playcrab/master/webroot/demo_python"
         ]
-
     }
     {
         title: "Demo Php"
