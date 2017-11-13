@@ -10,5 +10,17 @@
 		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_php",
 		"paths": [],
 		"group": ""
+	}, 
+	{
+		"name": "tickles",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/tickles",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "demo_python",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_python",
+		"paths": [],
+		"group": ""
 	}
 ]
