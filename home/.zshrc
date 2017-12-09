@@ -1,7 +1,10 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="$HOME/.composer/vendor/bin:$PATH"
+export GOPATH="$HOME/go"
 
+export PATH="$PATH:$HOME/.composer/vendor/bin"
+export PATH="$PATH:$HOME/bin"
+export PATH="$PATH:$GOPATH/bin"
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/sung/.oh-my-zsh
