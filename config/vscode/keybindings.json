@@ -12,5 +12,9 @@
         "key": "ctrl+o",
         "command": "-lineBreakInsert",
         "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+cmd+o",
+        "command": "git.checkout"
     }
 ]
