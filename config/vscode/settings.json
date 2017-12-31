@@ -31,5 +31,5 @@
     "python.venvPath": "venv",
     "terminal.external.osxExec": "/Application/iTerms.app",
     "git.autofetch": true,
-    "workbench.colorTheme": "Solarized Dark"
+    "workbench.colorTheme": "One Dark Pro"
 }

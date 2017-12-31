@@ -48,5 +48,13 @@
 	{
 		"name": "demo_go",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_go"
+	},
+	{
+		"name": "demo_code",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_code"
+	},
+	{
+		"name": "demo_echo",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_echo"
 	}
 ]
