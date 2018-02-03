@@ -26,6 +26,7 @@ set nobackup " 不备份
 
 " keybindings
 " - map operate
+let mapleader = ","
 map <leader>b :buffers<cr>
 map <leader>1 :b1<cr>
 map <leader>2 :b2<cr>

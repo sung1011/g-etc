@@ -34,8 +34,7 @@
     treeView: {}
   "highlight-selected":
     highlightBackground: true
-  "linter-ui-default":
-    panelHeight: 177
+  "linter-ui-default": {}
   "php-cs-fixer":
     executablePath: "/usr/local/bin/php-cs-fixer"
     phpExecutablePath: "/usr/local/bin/php"

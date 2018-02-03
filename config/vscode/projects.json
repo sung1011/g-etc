@@ -1,14 +1,60 @@
 [
 	{
 		"name": "dev",
-		"rootPath": "/data/home/user00/playcrab/master/version/backend/dev",
-		"paths": [],
-		"group": ""
+		"rootPath": "/data/home/user00/playcrab/master/version/backend/dev"
 	},
 	{
 		"name": "demo_php",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_php",
 		"paths": [],
 		"group": ""
+	}, 
+	{
+		"name": "tickles",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/tickles"
+	},
+	{
+		"name": "demo_python",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_python"
+	},
+	{
+		"name": "global",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/global"
+	},
+	{
+		"name": "apidebug",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/apidebug"
+	},
+	{
+		"name": "dazzle",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/dazzle"
+	},
+	{
+		"name": "demo_flask",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_flask"
+	},
+	{
+		"name": "connector_global",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/connector_global"
+	},
+	{
+		"name": "mtool",
+		"rootPath": "/data/home/user00/playcrab/master/master_tools/mtool"
+	},
+	{
+		"name": "demo_click",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_click"
+	},
+	{
+		"name": "demo_go",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_go"
+	},
+	{
+		"name": "demo_code",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_code"
+	},
+	{
+		"name": "demo_echo",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_echo"
 	}
 ]
