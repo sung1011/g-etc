@@ -217,10 +217,10 @@
         ]
     }
     {
-        title: "Demo Cakephp"
+        title: "Demo code"
         group: "demo"
         paths : [
-            "/data/home/user00/playcrab/master/webroot/demo_cakephp"
+            "/data/home/user00/playcrab/master/webroot/demo_code"
         ]
     }
 ]

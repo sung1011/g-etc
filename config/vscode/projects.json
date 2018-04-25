@@ -10,6 +10,10 @@
 		"group": ""
 	}, 
 	{
+		"name": "vms",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/vms"
+	},
+	{
 		"name": "tickles",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/tickles"
 	},
@@ -56,5 +60,33 @@
 	{
 		"name": "demo_echo",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_echo"
+	},
+	{
+		"name": "g-console",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/g-console"
+	},
+	{
+		"name": "shell",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/shell"
+	},
+	{
+		"name": "upload_hotfix",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/upload_hotfix"
+	},
+	{
+		"name": "mat_meta",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/mat_meta_templates"
+	},
+	{
+		"name": "master_meta",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/master_meta_templates"
+	},
+	{
+		"name": "connector_backend",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/connector_backend"
+	},
+	{
+		"name": "master-doc.wiki",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/master-doc.wiki"
 	}
 ]

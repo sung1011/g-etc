@@ -21,7 +21,7 @@
     telemetryConsent: "no"
     themes: [
       "atom-material-ui"
-      "chester-atom-syntax"
+      "atom-material-syntax"
     ]
   editor:
     invisibles: {}
@@ -54,7 +54,6 @@
     automaticallyEscapeInsertModeOnActivePaneItemChange: true
     ignoreCaseForSearch: true
     keymapPToPutWithAutoIndent: true
-    notifiedCoffeeScriptNoLongerSupportedToExtendVMP: true
     useClipboardAsDefaultRegister: true
   "vim-mode-plus-ex-mode":
     notifiedUseExMode: true

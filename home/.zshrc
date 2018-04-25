@@ -100,3 +100,6 @@ alias gacp='git add .;git commit -m \"ig:\";git push'
 alias glacp='git pull;git add .;git commit -m \"ig:\";git push'
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
+
+# brew
+export HOMEBREW_NO_AUTO_UPDATE=true
