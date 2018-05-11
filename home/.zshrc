@@ -5,11 +5,10 @@
 #
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export GOPATH="$HOME/go"
+export PATH="$HOME/tickles/bin:$PATH"
+export PATH="$HOME/bin:$PATH"
+export PATH="$HOME/.composer/vendor/bin:$PATH"
 
-export PATH="$PATH:$HOME/.composer/vendor/bin"
-export PATH="$PATH:$HOME/bin"
-export PATH="$PATH:$GOPATH/bin"
 
 # Path to your oh-my-zsh installation.
 export ZSH=/Users/sunji/.oh-my-zsh
@@ -101,8 +100,13 @@ alias tle="trans -s zh-CN -t en"
 
 alias gacp='git add .;git commit -m \"ig:\";git push'
 alias glacp='git pull;git add .;git commit -m \"ig:\";git push'
+alias dk='docker'
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
 # brew
 export HOMEBREW_NO_AUTO_UPDATE=true
+export PATH="/usr/local/opt/php@7.1/bin:$PATH"
+export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
+
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

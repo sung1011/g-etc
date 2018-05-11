@@ -4,6 +4,10 @@
 		"rootPath": "/data/home/user00/playcrab/master/version/backend/dev"
 	},
 	{
+		"name": "dev_mat",
+		"rootPath": "/data/home/user00/playcrab/mat/version/backend/dev"
+	},
+	{
 		"name": "demo_php",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_php",
 		"paths": [],
@@ -23,7 +27,7 @@
 	},
 	{
 		"name": "global",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/global"
+		"rootPath": "/data/home/user00/playcrab/master/version/global/dev"
 	},
 	{
 		"name": "apidebug",
@@ -44,6 +48,10 @@
 	{
 		"name": "mtool",
 		"rootPath": "/data/home/user00/playcrab/master/master_tools/mtool"
+	},
+	{
+		"name": "mtool_mat",
+		"rootPath": "/data/home/user00/playcrab/mat/mat_tools/mtool"
 	},
 	{
 		"name": "demo_click",
@@ -88,5 +96,9 @@
 	{
 		"name": "master-doc.wiki",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/master-doc.wiki"
+	},
+	{
+		"name": "global_mod",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/globalMod"
 	}
 ]
