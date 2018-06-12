@@ -17,7 +17,7 @@ export ZSH=/Users/sunji/.oh-my-zsh
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #ZSH_THEME="robbyrussell"
-ZSH_THEME="af-magic"
+ZSH_THEME="avit"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -101,12 +101,11 @@ alias tle="trans -s zh-CN -t en"
 alias gacp='git add .;git commit -m \"ig:\";git push'
 alias glacp='git pull;git add .;git commit -m \"ig:\";git push'
 alias dk='docker'
+alias dkc='docker-compose'
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
 # brew
 export HOMEBREW_NO_AUTO_UPDATE=true
-export PATH="/usr/local/opt/php@7.1/bin:$PATH"
-export PATH="/usr/local/opt/php@7.1/sbin:$PATH"
 
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

@@ -28,6 +28,7 @@
     "python.venvPath": "venv",
     "terminal.external.osxExec": "/Application/iTerms.app",
     "git.autofetch": true,
-    "workbench.colorTheme": "Atom One Dark",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Hopscotch",
+    "projectManager.git.baseFolders": ["/usr/local/var/www"]
 }

@@ -8,22 +8,12 @@
 		"rootPath": "/data/home/user00/playcrab/mat/version/backend/dev"
 	},
 	{
-		"name": "demo_php",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_php",
-		"paths": [],
-		"group": ""
-	}, 
-	{
 		"name": "vms",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/vms"
 	},
 	{
 		"name": "tickles",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/tickles"
-	},
-	{
-		"name": "demo_python",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_python"
 	},
 	{
 		"name": "global",
@@ -56,10 +46,6 @@
 	{
 		"name": "demo_click",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_click"
-	},
-	{
-		"name": "demo_go",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_go"
 	},
 	{
 		"name": "demo_code",
@@ -100,5 +86,21 @@
 	{
 		"name": "global_mod",
 		"rootPath": "/data/home/user00/playcrab/master/webroot/globalMod"
+	},
+	{
+		"name": "page",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/sung1011.github.io"
+	},
+	{
+		"name": "docker",
+		"rootPath": "Users/sunji/docker"
+	},
+	{
+		"name": "meepo",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/meepo"
+	},
+	{
+		"name": "kakura",
+		"rootPath": "/data/home/user00/playcrab/master/webroot/kakura_nodejs"
 	}
 ]

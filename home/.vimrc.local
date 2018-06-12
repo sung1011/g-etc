@@ -3,6 +3,7 @@ filetype plugin on
 syntax on
 set nospell
 set encoding=utf-8
+set wrap
 
 "tagbar
 "autocmd VimEnter * nested :TagbarOpen
