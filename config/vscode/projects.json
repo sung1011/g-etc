@@ -4,37 +4,14 @@
 		"rootPath": "/data/home/user00/playcrab/master/version/backend/dev"
 	},
 	{
-		"name": "dev_mat",
-		"rootPath": "/data/home/user00/playcrab/mat/version/backend/dev"
-	},
-	{
-		"name": "vms",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/vms"
-	},
-	{
-		"name": "tickles",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/tickles"
-	},
-	{
 		"name": "global",
 		"rootPath": "/data/home/user00/playcrab/master/version/global/dev"
 	},
 	{
-		"name": "apidebug",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/apidebug"
+		"name": "dev_mat",
+		"rootPath": "/data/home/user00/playcrab/mat/version/backend/dev"
 	},
-	{
-		"name": "dazzle",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/dazzle"
-	},
-	{
-		"name": "demo_flask",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_flask"
-	},
-	{
-		"name": "connector_global",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/connector_global"
-	},
+	
 	{
 		"name": "mtool",
 		"rootPath": "/data/home/user00/playcrab/master/master_tools/mtool"
@@ -44,63 +21,11 @@
 		"rootPath": "/data/home/user00/playcrab/mat/mat_tools/mtool"
 	},
 	{
-		"name": "demo_click",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_click"
-	},
-	{
-		"name": "demo_code",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_code"
-	},
-	{
-		"name": "demo_echo",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/demo_echo"
-	},
-	{
-		"name": "g-console",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/g-console"
-	},
-	{
-		"name": "shell",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/shell"
-	},
-	{
-		"name": "upload_hotfix",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/upload_hotfix"
-	},
-	{
-		"name": "mat_meta",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/mat_meta_templates"
-	},
-	{
-		"name": "master_meta",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/master_meta_templates"
-	},
-	{
-		"name": "connector_backend",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/connector_backend"
-	},
-	{
-		"name": "master-doc.wiki",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/master-doc.wiki"
-	},
-	{
-		"name": "global_mod",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/globalMod"
-	},
-	{
-		"name": "page",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/sung1011.github.io"
+		"name": "go",
+		"rootPath": "Users/sunji/go/src"
 	},
 	{
 		"name": "docker",
 		"rootPath": "Users/sunji/docker"
-	},
-	{
-		"name": "meepo",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/meepo"
-	},
-	{
-		"name": "kakura",
-		"rootPath": "/data/home/user00/playcrab/master/webroot/kakura_nodejs"
 	}
 ]

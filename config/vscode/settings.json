@@ -29,6 +29,11 @@
     "terminal.external.osxExec": "/Application/iTerms.app",
     "git.autofetch": true,
     "explorer.confirmDelete": false,
-    "workbench.colorTheme": "Hopscotch",
-    "projectManager.git.baseFolders": ["/usr/local/var/www"]
+    "projectManager.git.baseFolders": [
+        "/usr/local/var/www"
+    ],
+    "workbench.colorTheme": "Dracula",
+    "workbench.activityBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "workbench.iconTheme": "vscode-great-icons"
 }

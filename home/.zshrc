@@ -5,19 +5,22 @@
 #
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
-export PATH="$HOME/tickles/bin:$PATH"
-export PATH="$HOME/bin:$PATH"
-export PATH="$HOME/.composer/vendor/bin:$PATH"
+export GOPATH="$HOME/go"
+
+export PATH="$PATH:$HOME/tickles/bin"
+export PATH="$PATH:$HOME/bin"
+export PATH="$PATH:$HOME/.composer/vendor/bin"
+export PATH=$PATH:$GOPATH/bin
 
 
 # Path to your oh-my-zsh installation.
-export ZSH=$HOME/.oh-my-zsh
+export ZSH=/Users/sunji/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 #ZSH_THEME="robbyrussell"
-ZSH_THEME="avit"
+ZSH_THEME="gallois"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
