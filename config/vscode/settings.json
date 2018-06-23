@@ -28,7 +28,6 @@
     "python.venvPath": "venv",
     "terminal.external.osxExec": "/Application/iTerms.app",
     "git.autofetch": true,
-    "explorer.confirmDelete": false,
     "projectManager.git.baseFolders": [
         "/usr/local/var/www"
     ],

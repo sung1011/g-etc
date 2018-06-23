@@ -61,5 +61,13 @@
         "key": "alt+f12",
         "command": "-editor.action.previewDeclaration",
         "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
+    },
+    {
+        "key": "cmd+b",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+-",
+        "command": "-workbench.action.navigateBack"
     }
 ]
