@@ -63,7 +63,7 @@
         "when": "editorHasDefinitionProvider && editorTextFocus && !inReferenceSearchEditor && !isInEmbeddedEditor"
     },
     {
-        "key": "cmd+b",
+        "key": "cmd+o",
         "command": "workbench.action.navigateBack"
     },
     {

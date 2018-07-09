@@ -25,6 +25,10 @@
 		"rootPath": "Users/sunji/go/src"
 	},
 	{
+		"name": "tk",
+		"rootPath": "Users/sunji/go/src/sung/tk"
+	},
+	{
 		"name": "docker",
 		"rootPath": "Users/sunji/docker"
 	}
