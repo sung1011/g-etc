@@ -69,5 +69,15 @@
     {
         "key": "ctrl+-",
         "command": "-workbench.action.navigateBack"
+    },
+    {
+        "key": "cmd+u",
+        "command": "editor.action.marker.nextInFiles",
+        "when": "editorFocus && !editorReadonly"
+    },
+    {
+        "key": "f8",
+        "command": "-editor.action.marker.nextInFiles",
+        "when": "editorFocus && !editorReadonly"
     }
 ]

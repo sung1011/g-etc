@@ -21,15 +21,19 @@
 		"rootPath": "/data/home/user00/playcrab/mat/mat_tools/mtool"
 	},
 	{
-		"name": "go",
-		"rootPath": "Users/sunji/go/src"
+		"name": "go_src",
+		"rootPath": "$home/go/src"
 	},
 	{
 		"name": "tk",
-		"rootPath": "Users/sunji/go/src/sung/tk"
+		"rootPath": "$home/go/src/sung/tk"
+	},
+	{
+		"name": "demo_go",
+		"rootPath": "$home/go/src/sung/demo_go"
 	},
 	{
 		"name": "docker",
-		"rootPath": "Users/sunji/docker"
+		"rootPath": "$HOME/docker"
 	}
 ]
