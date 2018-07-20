@@ -4,14 +4,17 @@
 		"rootPath": "/data/home/user00/playcrab/master/version/backend/dev"
 	},
 	{
+		"name": "dev_mat",
+		"rootPath": "/data/home/user00/playcrab/mat/version/backend/dev"
+	},
+	{
 		"name": "global",
 		"rootPath": "/data/home/user00/playcrab/master/version/global/dev"
 	},
 	{
-		"name": "dev_mat",
-		"rootPath": "/data/home/user00/playcrab/mat/version/backend/dev"
+		"name": "global_mat",
+		"rootPath": "/data/home/user00/playcrab/mat/version/global/dev"
 	},
-	
 	{
 		"name": "mtool",
 		"rootPath": "/data/home/user00/playcrab/master/master_tools/mtool"
