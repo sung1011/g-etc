@@ -28,6 +28,10 @@
 		"rootPath": "$home/go/src"
 	},
 	{
+		"name": "gobyexample",
+		"rootPath": "$home/go/src/sung/gobyexample"
+	},
+	{
 		"name": "tk",
 		"rootPath": "$home/go/src/sung/tk"
 	},
