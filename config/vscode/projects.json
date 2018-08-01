@@ -28,19 +28,19 @@
 		"rootPath": "$home/go/src"
 	},
 	{
-		"name": "go_gobyexample",
-		"rootPath": "$home/go/src/sung/gobyexample"
-	},
-	{
 		"name": "go_tk",
 		"rootPath": "$home/go/src/sung/tk"
 	},
 	{
-		"name": "go_sung_user",
+		"name": "go_src_sung",
 		"rootPath": "$home/go/src/sung"
 	},
 	{
 		"name": "docker",
 		"rootPath": "$HOME/docker"
+	},
+	{
+		"name": "go_gobyexample",
+		"rootPath": "$home/go/src/sung/gobyexample"
 	}
 ]
