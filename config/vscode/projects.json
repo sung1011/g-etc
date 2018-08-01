@@ -36,10 +36,6 @@
 		"rootPath": "$home/go/src/sung/tk"
 	},
 	{
-		"name": "go_demo",
-		"rootPath": "$home/go/src/sung/demo_go"
-	},
-	{
 		"name": "go_sung_user",
 		"rootPath": "$home/go/src/sung"
 	},
