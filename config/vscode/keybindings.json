@@ -79,5 +79,9 @@
         "key": "f8",
         "command": "-editor.action.marker.nextInFiles",
         "when": "editorFocus && !editorReadonly"
+    },
+    {
+        "key": "cmd+g",
+        "command": "outline.focus"
     }
 ]
