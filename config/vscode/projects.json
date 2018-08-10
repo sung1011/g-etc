@@ -38,9 +38,5 @@
 	{
 		"name": "docker",
 		"rootPath": "$HOME/docker"
-	},
-	{
-		"name": "go_gobyexample",
-		"rootPath": "$home/go/src/sung/gobyexample"
 	}
 ]
