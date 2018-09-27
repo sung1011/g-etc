@@ -34,5 +34,6 @@
     "workbench.colorTheme": "Dracula",
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "left",
-    "workbench.iconTheme": "vscode-great-icons"
+    "workbench.iconTheme": "vscode-great-icons",
+    "breadcrumbs.enabled": true
 }
