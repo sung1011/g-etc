@@ -36,5 +36,5 @@
     "workbench.sideBar.location": "left",
     "workbench.iconTheme": "vscode-great-icons",
     "breadcrumbs.enabled": true,
-    "workbench.editor.showTabs": true
+    "workbench.editor.showTabs": false
 }
