@@ -36,6 +36,5 @@
     "workbench.sideBar.location": "left",
     "workbench.iconTheme": "vscode-great-icons",
     "breadcrumbs.enabled": true,
-    "workbench.editor.showTabs": true,
-    "markdown.extension.preview.autoShowPreviewToSide": true
+    "workbench.editor.showTabs": true
 }
