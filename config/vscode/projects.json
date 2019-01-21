@@ -28,19 +28,7 @@
 		"rootPath": "$home/go/src"
 	},
 	{
-		"name": "go_tk",
-		"rootPath": "$home/go/src/sung/tk"
-	},
-	{
-		"name": "go_wow",
-		"rootPath": "$home/go/src/sung/wow"
-	},
-	{
 		"name": "go_src_sung",
 		"rootPath": "$home/go/src/sung"
-	},
-	{
-		"name": "docker",
-		"rootPath": "$HOME/docker"
 	}
 ]
