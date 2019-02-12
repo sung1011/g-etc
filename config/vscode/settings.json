@@ -31,10 +31,10 @@
     "projectManager.git.baseFolders": [
         "/usr/local/var/www"
     ],
-    "workbench.colorTheme": "Material Theme Palenight High Contrast",
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "left",
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
     "breadcrumbs.enabled": true,
-    "workbench.editor.showTabs": true
+    "workbench.editor.showTabs": true,
+    "workbench.colorTheme": "Material Theme Palenight"
 }
