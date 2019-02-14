@@ -31,7 +31,7 @@
     "projectManager.git.baseFolders": [
         "/usr/local/var/www"
     ],
-    "workbench.activityBar.visible": true,
+    "workbench.activityBar.visible": false,
     "workbench.sideBar.location": "left",
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
     "breadcrumbs.enabled": true,

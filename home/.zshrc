@@ -64,7 +64,15 @@ ZSH_THEME="gallois"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git autojump zsh-autosuggestions)
+plugins=(
+    git
+    autojump
+    zsh-autosuggestions
+    web-search
+    vscode
+    docker
+    docker-compose
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -103,10 +111,8 @@ alias tle="trans -s zh-CN -t en"
 
 alias gacp='git add .;git commit -m \"ig:\";git push'
 alias glacp='git pull;git add .;git commit -m \"ig:\";git push'
-alias dk='docker'
-alias dki='docker image'
-alias dkc='docker container'
-alias dkcp="docker-compose"
+alias dc='docker'
+alias dci='docker image'
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
