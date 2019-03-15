@@ -87,9 +87,5 @@
     {
         "key": "ctrl+alt+t",
         "command": "-workbench.action.terminal.toggleTerminal"
-    },
-    {
-        "key": "ctrl+alt+t",
-        "command": "workbench.action.tasks.test"
     }
 ]
