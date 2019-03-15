@@ -36,6 +36,6 @@
     "workbench.iconTheme": "eq-material-theme-icons-palenight",
     "breadcrumbs.enabled": true,
     "workbench.editor.showTabs": true,
-    "workbench.colorTheme": "Material Theme Palenight",
-    "go.testFlags": "-v"
+    // "go.testFlags": "-v",
+    "workbench.colorTheme": "Material Theme Palenight"
 }
