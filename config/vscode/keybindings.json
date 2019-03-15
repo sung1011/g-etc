@@ -91,5 +91,9 @@
     {
         "key": "ctrl+alt+t",
         "command": "go.test.cursor"
+    },
+    {
+        "key": "ctrl+shift+alt+t",
+        "command": "go.test.package"
     }
 ]
