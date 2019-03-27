@@ -121,5 +121,5 @@ export HOMEBREW_NO_AUTO_UPDATE=true
 
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-#export http_proxy="http://127.0.0.1:1086"
-#export https_proxy=$http_proxy
+export http_proxy="http://127.0.0.1:1086"
+export https_proxy=$http_proxy
