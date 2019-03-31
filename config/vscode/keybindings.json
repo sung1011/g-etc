@@ -71,7 +71,7 @@
         "command": "-workbench.action.navigateBack"
     },
     {
-        "key": "cmd+u",
+        "key": "shift+cmd+down",
         "command": "editor.action.marker.nextInFiles",
         "when": "editorFocus && !editorReadonly"
     },
@@ -95,5 +95,35 @@
     {
         "key": "ctrl+shift+alt+t",
         "command": "go.test.package"
+    },
+    {
+        "key": "shift+cmd+up",
+        "command": "-cursorTopSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+cmd+up",
+        "command": "-workbench.action.terminal.selectToPreviousCommand",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "shift+cmd+up",
+        "command": "editor.action.marker.prevInFiles",
+        "when": "editorFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+f8",
+        "command": "-editor.action.marker.prevInFiles",
+        "when": "editorFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+cmd+down",
+        "command": "-workbench.action.terminal.selectToNextCommand",
+        "when": "terminalFocus"
+    },
+    {
+        "key": "shift+cmd+down",
+        "command": "-cursorBottomSelect",
+        "when": "textInputFocus"
     }
 ]
