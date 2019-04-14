@@ -125,5 +125,9 @@
         "key": "shift+cmd+down",
         "command": "-cursorBottomSelect",
         "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+alt+c",
+        "command": "workbench.output.action.clearOutput"
     }
 ]
