@@ -116,6 +116,7 @@ alias dki='docker image'
 alias dkc='docker container'
 alias dkcp='docker-compose'
 alias ks='kubectl'
+alias mnk='minikube'
 
 test -e "${HOME}/.iterm2_shell_integration.zsh" && source "${HOME}/.iterm2_shell_integration.zsh"
 
@@ -124,5 +125,5 @@ export HOMEBREW_NO_AUTO_UPDATE=true
 
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-#export http_proxy="http://127.0.0.1:1087"
-#export https_proxy=$http_proxy
+export http_proxy="http://127.0.0.1:1087"
+export https_proxy=$http_proxy
