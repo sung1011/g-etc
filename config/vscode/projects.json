@@ -18,17 +18,5 @@
 	{
 		"name": "mtool",
 		"rootPath": "/data/home/user00/playcrab/master/master_tools/mtool"
-	},
-	{
-		"name": "mtool_mat",
-		"rootPath": "/data/home/user00/playcrab/mat/mat_tools/mtool"
-	},
-	{
-		"name": "go_src",
-		"rootPath": "$home/go/src"
-	},
-	{
-		"name": "go_src_sung",
-		"rootPath": "$home/go/src/sung"
 	}
 ]

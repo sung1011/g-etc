@@ -29,7 +29,9 @@
     "terminal.external.osxExec": "/Application/iTerms.app",
     "git.autofetch": true,
     "projectManager.git.baseFolders": [
-        "/usr/local/var/www"
+        "/usr/local/var/www",
+        "/Users/sung/go/src/github.com",
+        "/Users/sung/go/src/sung"
     ],
     "workbench.activityBar.visible": true,
     "workbench.sideBar.location": "left",
