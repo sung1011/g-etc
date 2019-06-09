@@ -129,5 +129,21 @@
     {
         "key": "ctrl+alt+c",
         "command": "workbench.output.action.clearOutput"
+    },
+    {
+        "key": "cmd+k cmd+l",
+        "command": "workbench.action.focusRightGroup"
+    },
+    {
+        "key": "cmd+k cmd+right",
+        "command": "-workbench.action.focusRightGroup"
+    },
+    {
+        "key": "cmd+k cmd+h",
+        "command": "workbench.action.focusLeftGroup"
+    },
+    {
+        "key": "cmd+k cmd+left",
+        "command": "-workbench.action.focusLeftGroup"
     }
 ]
