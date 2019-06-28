@@ -1,10 +1,10 @@
 [
 	{
-		"name": "dev",
+		"name": "backend",
 		"rootPath": "/data/home/user00/playcrab/master/version/backend/dev"
 	},
 	{
-		"name": "dev_mat",
+		"name": "backend_mat",
 		"rootPath": "/data/home/user00/playcrab/mat/version/backend/dev"
 	},
 	{
