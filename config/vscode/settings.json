@@ -39,6 +39,6 @@
     "breadcrumbs.enabled": true,
     "workbench.editor.showTabs": true,
     "go.testFlags": ["-v"],
-    "workbench.colorTheme": "Material Theme Darker",
+    "workbench.colorTheme": "Solarized Dark",
     "markdown.extension.toc.githubCompatibility": true
 }
