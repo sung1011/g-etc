@@ -16,8 +16,7 @@ let g:syntastic_check_on_wq = 0
 
 " colorscheme
 "let g:solarized_termcolors=16
-"color symfony "Load a colorscheme
-color material "Load a colorscheme
+color desert "Load a colorscheme
 
 set foldmethod=manual "不折叠 另需要手动修改PIV/syntax/php.vim
 let g:DisableAutoPHPFolding = 1

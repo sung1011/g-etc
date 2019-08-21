@@ -145,5 +145,9 @@
     {
         "key": "cmd+k cmd+left",
         "command": "-workbench.action.focusLeftGroup"
+    },
+    {
+        "key": "ctrl+cmd+w",
+        "command": "-workbench.action.toggleTabsVisibility"
     }
 ]

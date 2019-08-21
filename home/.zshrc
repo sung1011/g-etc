@@ -6,7 +6,6 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 export GOPATH="$HOME/go"
-
 export PATH="$PATH:$HOME/tickles/bin"
 export PATH="$PATH:$HOME/bin"
 export PATH="$PATH:$HOME/.composer/vendor/bin"
@@ -127,4 +126,5 @@ source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 #export http_proxy="http://127.0.0.1:1087"
 #export https_proxy=$http_proxy
+
 export PATH="/usr/local/sbin:$PATH"
