@@ -53,5 +53,9 @@
         "editor.defaultFormatter": "junstyle.php-cs-fixer"
     },
     "editor.formatOnSave": true,
-    // "http.proxy": "http://127.0.0.1:1087"
+    "editor.formatOnSaveTimeout": 5000,
+    "sync.gist": "37b17a0c889019e1d4ea53496c6704d1",
+    "sync.autoUpload": true,
+    "sync.autoDownload": true,
+    "sync.forceUpload": true
 }

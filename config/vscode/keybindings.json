@@ -149,5 +149,29 @@
     {
         "key": "ctrl+cmd+w",
         "command": "-workbench.action.toggleTabsVisibility"
+    },
+    {
+        "key": "cmd+e cmd+r",
+        "command": "-SQLTools.deleteBookmark"
+    },
+    {
+        "key": "cmd+e cmd+r",
+        "command": "-SQLTools.deleteBookmark"
+    },
+    {
+        "key": "cmd+e cmd+r",
+        "command": "-SQLTools.deleteBookmark"
+    },
+    {
+        "key": "cmd+e cmd+r",
+        "command": "-SQLTools.deleteBookmark"
+    },
+    {
+        "key": "cmd+e r",
+        "command": "SQLTools.executeFromInput"
+    },
+    {
+        "key": "cmd+e f",
+        "command": "SQLTools.executeQueryFromFile"
     }
 ]
